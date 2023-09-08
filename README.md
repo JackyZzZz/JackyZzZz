@@ -1,10 +1,14 @@
 ![Personal Banner](./Banner.png)
 
-### Hi there! I am Jun, a 3rd-year CS student @ UC Irvine
+### Hi there! I am Jun, a 3rd-year CS student @ [UC Irvine](https://uci.edu/)
 
-I have a firm grounding in ***Python***, R, finance, and statistics. Beyond academics, I embrace opportunities to help others navigate the university experience, whether that's leading campus tours or providing mentorship to undeclared students. I'm passionate about learning and regularly engage in online courses to further expand my skill set during my free time, such as ***C++ and Java***. I enjoy the challenge of leadership as well, serving as President of the Career Development Department in our Student Union. I'm fluent in both English and Mandarin and in my spare time, I can be found keeping fit, gaming, or capturing life through a lens~
+I am Jun Xia, a highly motivated and skilled computer science professional with a Bachelor of Science degree from the University of California, Irvine. As a Research Assistant at UC Irvine, I have developed a variety of data management and text analytics projects under the supervision of [Prof. Chen Li](https://chenli.ics.uci.edu/). I also served as an ICS Lab Tutor, helping intermediate Python students develop a strong conceptual understanding of the subject.
 
-Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/jun-xia-255762255), view my [Resume](./New-Resume.pdf), or send me an [Email](mailto:xiaj8@uci.edu)
+Throughout my academic journey, I have been involved in various projects, including [Texera](https://github.com/Texera/texera), a collaborative data analytics platform supporting over 4,000 users worldwide, and the development of the Global Airport App, a Python-based GUI application that parses and manages information on over 75,880 airports. I also created a Breakout game with HTML5 Canvas and JavaScript that supports real-time responsive scoring.
+
+I am proficient in multiple programming languages, including Python, HTML, CSS, JavaScript, TypeScript, Java, and Scala. I am also experienced with technologies such as Git, Bash, React, and API development. My diverse skill set, strong work ethic, and passion for computer science make me a valuable asset to any team. Connect with me to learn more about my background and experiences~
+
+Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/jun-xia), view my [Resume](./New-Resume.pdf), or send me an [Email](mailto:lsh521314@gmail.com)
 
 <!--
 **JackyZzZz/JackyZzZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
