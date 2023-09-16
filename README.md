@@ -1,6 +1,6 @@
 ![Personal Banner](./Banner.png)
 
-### Hi there! I am Jun, a 3rd-year CS student @ [UC Irvine](https://uci.edu/)
+### Hi there! I am [Jun](https://jackyzzzz.github.io/), a 3rd-year CS student @ [UC Irvine](https://uci.edu/)
 
 I am Jun Xia, a highly motivated and skilled computer science professional with a Bachelor of Science degree from the University of California, Irvine. As a Research Assistant at UC Irvine, I have developed a variety of data management and text analytics projects under the supervision of [Prof. Chen Li](https://chenli.ics.uci.edu/). I also served as an ICS Lab Tutor, helping intermediate Python students develop a strong conceptual understanding of the subject.
 
