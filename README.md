@@ -2,7 +2,7 @@
 
 ### Hi there! I am [Jun](https://jackyzzzz.github.io/), a 3rd-year CS student @ [UC Irvine](https://uci.edu/)
 
-I am Jun Xia, a highly motivated and skilled computer science professional with a Bachelor of Science degree from the University of California, Irvine. As a Research Assistant at UC Irvine, I have developed a variety of data management and text analytics projects under the supervision of [Prof. Chen Li](https://chenli.ics.uci.edu/). I also served as an ICS Lab Tutor, helping intermediate Python students develop a strong conceptual understanding of the subject.
+I am Jun Xia, a highly motivated and skilled computer science professional with a Bachelor of Science degree from the University of California, Irvine. As a Research Assistant at UC Irvine, I have developed a variety of data management and text analytics projects under the supervision of [Prof. Chen Li](https://chenli.ics.uci.edu/). I also served as an ICS Learning Assistant, helping intermediate Python students develop a strong conceptual understanding of the subject.
 
 Throughout my academic journey, I have been involved in various projects, including [Texera](https://github.com/Texera/texera), a collaborative data analytics platform supporting over 4,000 users worldwide, and the development of the Global Airport App, a Python-based GUI application that parses and manages information on over 75,880 airports. I also created a [Breakout game](https://github.com/JackyZzZz/BREAKOUT-GAME) with HTML5 Canvas and JavaScript that supports real-time responsive scoring.
 
