@@ -1,6 +1,6 @@
 ![Personal Banner](./Banner.png)
 
-### Hi there! I am [Jun](https://jackyzzzz.github.io/), a 3rd-year CS student @ [UC Irvine](https://uci.edu/)
+### Hi there! I am [Jacky](https://jackyzzzz.github.io/), a 3rd-year CS student @ [UC Irvine](https://uci.edu/)
 
 I am Jun Xia, a highly motivated and skilled computer science professional with a Bachelor of Science degree from the University of California, Irvine. As a Research Assistant at UC Irvine, I have developed a variety of data management and text analytics projects under the supervision of [Prof. Chen Li](https://chenli.ics.uci.edu/). I also served as an ICS Learning Assistant, helping intermediate Python students develop a strong conceptual understanding of the subject.
 
@@ -8,7 +8,7 @@ Throughout my academic journey, I have been involved in various projects, includ
 
 I am proficient in multiple programming languages, including Python, HTML, CSS, JavaScript, TypeScript, Java, and Scala. I am also experienced with technologies such as Git, Bash, React, and API development. My diverse skill set, strong work ethic, and passion for computer science make me a valuable asset to any team. Connect with me to learn more about my background and experiences~
 
-Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/jun-xia), view my [Resume](https://jackyzzzz.github.io/data/JunXia_Resume_2023.pdf), or send me an [Email](mailto:lsh521314@gmail.com)
+Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/jun-xia), view my [Resume](https://jackyzzzz.github.io/data/JunXia_Resume_2023.pdf), check my [website](https://jackyzzzz.github.io/) or send me an [Email](mailto:lsh521314@gmail.com)
 
 [![Github status](https://github-readme-stats.vercel.app/api?username=JackyZzZz)]()
 
