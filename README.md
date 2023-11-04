@@ -8,7 +8,7 @@ Throughout my academic journey, I have been involved in various projects, includ
 
 I am proficient in multiple programming languages, including Python, HTML, CSS, JavaScript, TypeScript, Java, and Scala. I am also experienced with technologies such as Git, Bash, React, and API development. My diverse skill set, strong work ethic, and passion for computer science make me a valuable asset to any team. Connect with me to learn more about my background and experiences~
 
-Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/jun-xia), view my [Resume](./JunXia_Resume_2023.pdf), or send me an [Email](mailto:lsh521314@gmail.com)
+Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/jun-xia), view my [Resume](https://jackyzzzz.github.io/data/JunXia_Resume_2023.pdf), or send me an [Email](mailto:lsh521314@gmail.com)
 
 [![Github status](https://github-readme-stats.vercel.app/api?username=JackyZzZz)]()
 
