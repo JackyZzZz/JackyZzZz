@@ -4,7 +4,7 @@
 
 I am Jun Xia, a highly motivated and skilled computer science professional with a Bachelor of Science degree from the University of California, Irvine. As a Research Assistant at UC Irvine, I have developed a variety of data management and text analytics projects under the supervision of [Prof. Chen Li](https://chenli.ics.uci.edu/). I also served as an ICS Learning Assistant, helping intermediate Python students develop a strong conceptual understanding of the subject.
 
-Throughout my academic journey, I have been involved in various projects, including [Texera](https://github.com/Texera/texera), a collaborative data analytics platform supporting over 4,000 users worldwide, and the development of the Global Airport App, a Python-based GUI application that parses and manages information on over 75,880 airports. I also created a [Breakout game](https://github.com/JackyZzZz/BREAKOUT-GAME) with HTML5 Canvas and JavaScript that supports real-time responsive scoring.
+
 
 I am proficient in multiple programming languages, including Python, HTML, CSS, JavaScript, TypeScript, Java, and Scala. I am also experienced with technologies such as Git, Bash, React, and API development. My diverse skill set, strong work ethic, and passion for computer science make me a valuable asset to any team. Connect with me to learn more about my background and experiences~
 
@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Github status](https://github-readme-stats.vercel.app/api?username=JackyZzZz)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackyZzZz)](https://github.com/anuraghazra/github-readme-stats)
+
+Throughout my academic journey, I have been involved in various projects, including [Texera](https://github.com/Texera/texera), a collaborative data analytics platform supporting over 4,000 users worldwide, and the development of the Global Airport App, a Python-based GUI application that parses and manages information on over 75,880 airports. I also created a [Breakout game](https://github.com/JackyZzZz/BREAKOUT-GAME) with HTML5 Canvas and JavaScript that supports real-time responsive scoring.
 -->
