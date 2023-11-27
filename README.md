@@ -10,7 +10,8 @@ I am proficient in multiple programming languages, including Python, HTML, CSS, 
 
 Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/jun-xia), view my [Resume](https://jackyzzzz.github.io/data/JunXia_Resume_2023.pdf), check my [Website](https://jackyzzzz.github.io/), or send me an [Email](mailto:lsh521314@gmail.com)
 
-
+<img align="left" src="https://github-readme-jackyzzzs-projects.vercel.app/api/top-langs/?username=JackyZzZz&layout=donut&theme=panda" alt="JackyZzZz" />
+<img align="center" src="https://github-readme-jackyzzzs-projects.vercel.app/api?username=JackyZzZz&show_icons=true&locale=en&rank_icon=github&theme=panda" alt="JackyZzZz" />
 
 <!--
 **JackyZzZz/JackyZzZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
