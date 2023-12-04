@@ -2,13 +2,16 @@
 
 ### Hi there! I am [Jacky](https://jackyzzzz.github.io/), a 3rd-year CS student @ [UC Irvine](https://uci.edu/)
 
+[![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://jackyzzzz.github.io/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jun-xia/)
+[![](https://img.shields.io/badge/Resume-FFAE1A?style=flat-square&logo=readdotcv)](https://jackyzzzz.github.io/data/JunXia_Resume_2023.pdf)
+[![](https://img.shields.io/badge/Gmail-9933CC?style=flat-square&logo=gmail)](mailto:xiaj8@uci.edu)
+
 I am Jun Xia, a highly motivated and skilled computer science professional with a Bachelor of Science degree from the University of California, Irvine. As a Research Assistant at UC Irvine, I have developed a variety of data management and text analytics projects under the supervision of [Prof. Chen Li](https://chenli.ics.uci.edu/). I also served as an ICS Learning Assistant, helping intermediate Python students develop a strong conceptual understanding of the subject.
 
 
 
 I am proficient in multiple programming languages, including Python, HTML, CSS, JavaScript, TypeScript, Java, and Scala. I am also experienced with technologies such as Git, Bash, React, and API development. My diverse skill set, strong work ethic, and passion for computer science make me a valuable asset to any team. Connect with me to learn more about my background and experiences~
-
-Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/jun-xia), view my [Resume](https://jackyzzzz.github.io/data/JunXia_Resume_2023.pdf), check my [Website](https://jackyzzzz.github.io/), or send me an [Email](mailto:lsh521314@gmail.com)
 
 <img align="left" src="https://github-readme-jackyzzzs-projects.vercel.app/api/top-langs/?username=JackyZzZz&layout=donut&theme=panda&langs_count=20&hide=SCSS,LESS&hide_progress=true" alt="JackyZzZz" />
 <img align="center" src="https://github-readme-jackyzzzs-projects.vercel.app/api?username=JackyZzZz&show_icons=true&locale=en&rank_icon=github&theme=panda&show=prs_merged_percentage&hide=stars,issues" alt="JackyZzZz" />
