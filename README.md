@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Resume-FFAE1A?style=flat-square&logo=readdotcv)](https://jackyzzzz.github.io/data/JunXia_Resume_2023.pdf)
 [![](https://img.shields.io/badge/Gmail-9933CC?style=flat-square&logo=gmail)](mailto:xiaj8@uci.edu)
 
-I am Jun Xia, a highly motivated and skilled computer science professional with a Bachelor of Science degree from the University of California, Irvine. As a Software Engineer Intern at UC Irvine, I have developed a variety of data management and text analytics projects under the supervision of [Prof. Chen Li](https://chenli.ics.uci.edu/). I also served as an ICS Learning Assistant, helping intermediate Python students develop a strong conceptual understanding of the subject.
+As a Software Engineer Intern at UC Irvine, I have developed a variety of data management and text analytics projects under the supervision of [Prof. Chen Li](https://chenli.ics.uci.edu/). I also served as an ICS Learning Assistant, helping intermediate Python students develop a strong conceptual understanding of the subject.
 
 
 
