@@ -1,6 +1,6 @@
 ![Personal Banner](./Banner.png)
 
-### Hi there! I am [Jacky](https://jackyzzzz.github.io/), a 3rd-year CS student @ [UC Irvine](https://uci.edu/)
+### Hi there! I am Jacky, a 3rd-year CS student @ [UC Irvine](https://uci.edu/)
 
 [![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://jackyzzzz.github.io/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jun-xia/)
