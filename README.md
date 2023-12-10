@@ -7,11 +7,11 @@
 [![](https://img.shields.io/badge/Resume-FFAE1A?style=flat-square&logo=readdotcv)](https://jackyzzzz.github.io/data/JunXia_Resume_2023.pdf)
 [![](https://img.shields.io/badge/Gmail-9933CC?style=flat-square&logo=gmail)](mailto:xiaj8@uci.edu)
 
-As a Software Engineer Intern at UC Irvine, I have developed a variety of data management and text analytics projects under the supervision of [Prof. Chen Li](https://chenli.ics.uci.edu/). I also served as an ICS Learning Assistant, helping intermediate Python students develop a strong conceptual understanding of the subject.
+My technical expertise spans a variety of languages and technologies, including Python, Java, C++, and front-end technologies like HTML, CSS, and JavaScript, complemented by my proficiency in frameworks such as React and tools like Docker and Kubernetes. I have applied these skills in diverse projects, from developing a collaborative data analytics platform to creating an efficient TA-Class Matching System, showcasing my ability to address real-world problems with innovative solutions.
 
 
 
-I am proficient in multiple programming languages, including Python, HTML, CSS, JavaScript, TypeScript, Java, and Scala. I am also experienced with technologies such as Git, Bash, React, and API development. My diverse skill set, strong work ethic, and passion for computer science make me a valuable asset to any team. Connect with me to learn more about my background and experiences~
+With a keen interest in both the theoretical and practical aspects of software engineering, I am continuously exploring new technologies and methodologies. I am enthusiastic about the ongoing learning process inherent in the field of computer science and am committed to developing solutions that are not only technically sound but also meet real business needs.
 
 <img align="left" src="https://github-readme-jackyzzzs-projects.vercel.app/api/top-langs/?username=JackyZzZz&layout=donut&theme=panda&langs_count=20&hide=SCSS,LESS&hide_progress=true" alt="JackyZzZz" />
 <img align="center" src="https://github-readme-jackyzzzs-projects.vercel.app/api?username=JackyZzZz&show_icons=true&locale=en&rank_icon=github&theme=panda&show=prs_merged_percentage&hide=stars,issues" alt="JackyZzZz" />
