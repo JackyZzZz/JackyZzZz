@@ -13,7 +13,7 @@ With a keen interest in both the theoretical and practical aspects of software e
 
 ### My skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,bash,cpp,css,flask,gcp,githubactions,java,js,html,linux,r,react,sqlite,tensorflow,vercel&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,git,kubernetes,docker,c,vim,bash,cpp,css,flask,gcp,githubactions,java,js,html,linux,r,react,sqlite,tensorflow,vercel&perline=11" />
   </a>
 
 
