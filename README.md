@@ -12,18 +12,16 @@ My technical expertise spans a variety of languages and technologies, including 
 With a keen interest in both the theoretical and practical aspects of software engineering, I am continuously exploring new technologies and methodologies. I am enthusiastic about the ongoing learning process inherent in the field of computer science and am committed to developing solutions that are not only technically sound but also meet real business needs.
 
 ### My skills
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,bash,cpp,css,flask,gcp,githubactions,java,js,html,linux,r,react,sqlite,tensorflow,vercel&perline=10" />
   </a>
-</p>
+
 
 ### Overview
-<div align="center">
+
   <img align="left" src="https://github-readme-jackyzzzs-projects.vercel.app/api/top-langs/?username=JackyZzZz&layout=donut&theme=panda&langs_count=20&hide=SCSS,LESS&hide_progress=true" alt="JackyZzZz" />
   <img align="center" src="https://github-readme-jackyzzzs-projects.vercel.app/api?username=JackyZzZz&show_icons=true&locale=en&rank_icon=github&theme=panda&show=prs_merged_percentage&hide=stars,issues" alt="JackyZzZz" />
-</div>
+
 
 <!--
 **JackyZzZz/JackyZzZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
