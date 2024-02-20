@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://jackyzzzz.github.io/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jun-xia/)
-[![](https://img.shields.io/badge/Resume-FFAE1A?style=flat-square&logo=readdotcv)](https://jackyzzzz.github.io/data/JunXia_Resume_2023.pdf)
+[![](https://img.shields.io/badge/Resume-FFAE1A?style=flat-square&logo=readdotcv)](https://jackyzzzz.github.io/data/JunXia_Resume_2024.pdf)
 [![](https://img.shields.io/badge/Gmail-9933CC?style=flat-square&logo=gmail)](mailto:xiaj8@uci.edu)
 
 My technical expertise spans a variety of languages and technologies, including Python, Java, C++, and front-end technologies like HTML, CSS, and JavaScript, complemented by my proficiency in frameworks such as React and tools like Docker and Kubernetes. I have applied these skills in diverse projects, from developing a collaborative data analytics platform to creating an efficient TA-Class Matching System, showcasing my ability to address real-world problems with innovative solutions.
