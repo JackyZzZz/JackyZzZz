@@ -2,7 +2,7 @@
 
 ### Hi there! I am Jun, a 3rd-year CS student @ [UC Irvine](https://uci.edu/)
 
-[![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://jackyzzzz.github.io/)
+[![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://jackyxia.blog)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jun-xia/)
 [![](https://img.shields.io/badge/Resume-FFAE1A?style=flat-square&logo=readdotcv)](https://jackyzzzz.github.io/data/JunXia_Resume_2024.pdf)
 [![](https://img.shields.io/badge/Gmail-9933CC?style=flat-square&logo=gmail)](mailto:xiaj8@uci.edu)
