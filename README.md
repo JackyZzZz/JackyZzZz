@@ -7,9 +7,9 @@
 [![](https://img.shields.io/badge/Resume-FFAE1A?style=flat-square&logo=readdotcv)](https://jackyzzzz.github.io/data/JunXia_Resume_2024.pdf)
 [![](https://img.shields.io/badge/Gmail-9933CC?style=flat-square&logo=gmail)](mailto:xiaj8@uci.edu)
 
-My technical expertise spans a variety of languages and technologies, including Python, Java, C++, and front-end technologies like HTML, CSS, and JavaScript, complemented by my proficiency in frameworks such as React and tools like Docker and Kubernetes. I have applied these skills in diverse projects, from developing a collaborative data analytics platform to creating an efficient TA-Class Matching System, showcasing my ability to address real-world problems with innovative solutions.
+I am an undergraduate researcher at the [Information Systems Group](https://isg.ics.uci.edu/), a software developer at [Google Summer of Code](https://summerofcode.withgoogle.com/) 2024 and [UCI ICS Student Council](https://studentcouncil.ics.uci.edu/), and a teaching assistant for various intro to intermediate Python courses taught at UCI. My main research interests are in the fields of data management and software engineering.
 
-With a keen interest in both the theoretical and practical aspects of software engineering, I am continuously exploring new technologies and methodologies. I am enthusiastic about the ongoing learning process inherent in the field of computer science and am committed to developing solutions that are not only technically sound but also meet real business needs.
+Fast and eager learner, able to produce substantial and disciplined solutions using programming languages and technologies that are learned along the way.
 
 ### My skills
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@ With a keen interest in both the theoretical and practical aspects of software e
 
 ### Overview
 
-  <img align="left" src="https://github-readme-jackyzzzs-projects.vercel.app/api/top-langs/?username=JackyZzZz&layout=donut&theme=panda&langs_count=20&hide=SCSS,LESS&hide_progress=true" alt="JackyZzZz" />
+  <img align="left" src="https://github-readme-jackyzzzs-projects.vercel.app/api/top-langs/?username=JackyZzZz&layout=donut&theme=panda&langs_count=8&hide=SCSS,LESS&hide_progress=true" alt="JackyZzZz" />
   <img align="center" src="https://github-readme-jackyzzzs-projects.vercel.app/api?username=JackyZzZz&show_icons=true&locale=en&rank_icon=github&theme=panda&show=prs_merged_percentage&hide=stars,issues" alt="JackyZzZz" />
 
 
