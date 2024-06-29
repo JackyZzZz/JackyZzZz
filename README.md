@@ -20,7 +20,7 @@ Fast and eager learner, able to produce substantial and disciplined solutions us
 ### Overview
 
   <img align="left" src="https://github-readme-jackyzzzs-projects.vercel.app/api/top-langs/?username=JackyZzZz&layout=donut&theme=panda&langs_count=8&hide=SCSS,LESS&hide_progress=true" alt="JackyZzZz" />
-  <img align="center" src="https://github-readme-jackyzzzs-projects.vercel.app/api?username=JackyZzZz&show_icons=true&locale=en&rank_icon=github&theme=panda&show=prs_merged_percentage&hide=stars,issues" alt="JackyZzZz" />
+  <img align="center" src="https://github-readme-jackyzzzs-projects.vercel.app/api?username=JackyZzZz&show_icons=true&locale=en&rank_icon=github&theme=panda&hide=stars,issues" alt="JackyZzZz" />
 
 
 <!--
