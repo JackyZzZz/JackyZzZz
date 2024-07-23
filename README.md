@@ -13,7 +13,7 @@ Fast and eager learner, able to produce substantial and disciplined solutions us
 
 ### My skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,kubernetes,docker,c,vim,bash,cpp,css,flask,gcp,githubactions,java,js,html,linux,r,react,sqlite,tensorflow,vercel,gitlab,aws,mysql,nextjs,npm,postgres&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,git,kubernetes,docker,c,vim,bash,cpp,css,flask,gcp,githubactions,java,js,html,linux,r,react,sqlite,tensorflow,vercel,gitlab,aws,mysql,nextjs,npm,postgres&perline=9" />
   </a>
 
 
