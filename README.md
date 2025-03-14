@@ -4,8 +4,7 @@
 
 [![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://jackyxia.blog)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jun-xia/)
-[![](https://img.shields.io/badge/Resume-FFAE1A?style=flat-square&logo=readdotcv)](https://jackyzzzz.github.io/data/JunXia_Resume_2024.pdf)
-[![](https://img.shields.io/badge/Gmail-9933CC?style=flat-square&logo=gmail)](mailto:xiaj8@uci.edu)
+
 
 I am an undergraduate researcher at the [Information Systems Group](https://isg.ics.uci.edu/), a software developer at [Google Summer of Code](https://summerofcode.withgoogle.com/) 2024 and [UCI ICS Student Council](https://studentcouncil.ics.uci.edu/), and a teaching assistant for various intro to intermediate Python courses taught at UC Irvine. My main research interests are in the fields of data management and software engineering.
 
@@ -41,4 +40,7 @@ Here are some ideas to get you started:
 ![Personal Banner](./Banner.png)
 
 Throughout my academic journey, I have been involved in various projects, including [Texera](https://github.com/Texera/texera), a collaborative data analytics platform supporting over 4,000 users worldwide, and the development of the Global Airport App, a Python-based GUI application that parses and manages information on over 75,880 airports. I also created a [Breakout game](https://github.com/JackyZzZz/BREAKOUT-GAME) with HTML5 Canvas and JavaScript that supports real-time responsive scoring.
+
+[![](https://img.shields.io/badge/Resume-FFAE1A?style=flat-square&logo=readdotcv)](https://jackyzzzz.github.io/data/JunXia_Resume_2024.pdf)
+[![](https://img.shields.io/badge/Gmail-9933CC?style=flat-square&logo=gmail)](mailto:xiaj8@uci.edu)
 -->
