@@ -2,7 +2,7 @@
 
 ### Hi there! I am Jun, a senior CS student @ [UC Irvine](https://uci.edu/)
 
-[![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://jackyxia.blog)
+[![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://jackyzzzz.github.io/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jun-xia/)
 
 
