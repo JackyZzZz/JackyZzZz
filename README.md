@@ -1,12 +1,12 @@
 
 
-### Hi there! I am Jun, a senior CS student @ [UC Irvine](https://uci.edu/)
+### Hi there! I am Jun, a software development engineer @ [Amazon](https://www.amazon.com/)
 
 [![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://jackyzzzz.github.io/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jun-xia/)
 
 
-I am an undergraduate researcher at the [Information Systems Group](https://isg.ics.uci.edu/), a software developer at [Google Summer of Code](https://summerofcode.withgoogle.com/) 2024 and [UCI ICS Student Council](https://studentcouncil.ics.uci.edu/), and a teaching assistant for various intro to intermediate Python courses taught at UC Irvine. My main research interests are in the fields of data management and software engineering.
+I received my B.S. degree in Computer Science from [UC Irvine](https://uci.edu/). I worked as an undergraduate researcher at the [Information Systems Group](https://isg.ics.uci.edu/), a software developer at [Google Summer of Code](https://summerofcode.withgoogle.com/) 2024, and a teaching assistant for various intro to intermediate Python courses taught at UC Irvine. My main research interests are in the fields of back-end development and distributed systems.
 
 Fast and eager learner, able to produce substantial and disciplined solutions using programming languages and technologies that are learned along the way.
 
